@@ -1,7 +1,7 @@
 # XGBoosting and LightGBM to Predict the microbusiness density
 
 1.**Dataset**:
--**The dataset used in this study is sourced from Kaggle`https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/data`, focusing on predicting micro-business density**. 
+-The dataset used in this study is sourced from Kaggle`https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/data`, focusing on predicting micro-business density**. 
 
 2.**Data Analysis**:
 

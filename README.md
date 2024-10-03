@@ -3,10 +3,10 @@
 1.**Dataset**:The dataset used in this study is sourced from Kaggle`https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/data`, focusing on predicting micro-business density. 
 
 2.**Data Analysis**:
-Machine learning algorithms XGBoost (XGB) and LightGBM are utilized for the prediction task. 
+Machine learning algorithms `XGBoost (XGB)` and `LightGBM` are utilized for the prediction task. 
 
-3.**feature engineering**:
-Feature engineering contains three different parts:
+3.**Feature engineering**:
+*Feature engineering* contains three different parts:
 
 1)`Exploratory Data Analysis (EDA)` to handle outliers and fill the missing value in three ways:
     - County and other Categorical variables, delete them

@@ -1,8 +1,7 @@
 # XGBoosting and LightGBM to Predict the microbusiness density
 
 1.**Dataset**:
-
-The dataset used in this study is sourced from Kaggle`https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/data`, focusing on predicting micro-business density. 
+-**The dataset used in this study is sourced from Kaggle`https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/data`, focusing on predicting micro-business density**. 
 
 2.**Data Analysis**:
 
@@ -14,8 +13,8 @@ Machine learning algorithms `XGBoost (XGB)` and `LightGBM` are utilized for the 
 
 1)`Exploratory Data Analysis (EDA)` to handle outliers and fill the missing value in three ways:
 
-    - County and other Categorical variables, delete them
-    - microbusiness density and active volume, use the day lag to fill in.
+County and other Categorical variables, delete them
+microbusiness density and active volume, use the day lag to fill in.
     - population and else, use the mean value to fill in.
 2)`geographic factors`: 
     
